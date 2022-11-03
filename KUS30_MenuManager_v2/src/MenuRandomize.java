@@ -1,3 +1,9 @@
+/**
+	 * Class MenuRandomize
+ 	 * author : Kunal Saxena
+	 * created: 11/01/2022
+	 */
+
 import java.util.ArrayList;
 
 public class MenuRandomize {
@@ -12,6 +18,11 @@ public class MenuRandomize {
 		salads = FileManager.readSalads(saladFile);
 		desserts = FileManager.readDesserts(dessertFile);
 	}
+	
+	/**
+	 * Given a four lists of Entrees, Sides, Salads, and Desserts, 
+	 * create a menu by randomly picking an element from each of the lists.
+	 */
 	public Menu randomMenu() {
 		Menu randMenu = new Menu("Random Menu");
 		if(entrees.size() > 0) 
