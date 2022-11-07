@@ -20,8 +20,7 @@ public class MyRectangle {
 		return this.width * this.height;
 	}
 	public String toString() {
-		String result = "Rectangle properties: " + "\n" + "Starts at (" + this.startX + ", " + this.startY + ") with width of " + this.width + " and height of " + this.height + ".";
-		return result;
+		return "Rectangle properties: " + "\n" + "Starts at (" + this.startX + ", " + this.startY + ") with width of " + this.width + " and height of " + this.height + ".";
 	}
 	public boolean isInside(int X, int Y) {
 		return (X >= startX && X <= (startX + width)) && (Y >= startY && Y <= (startY + height));

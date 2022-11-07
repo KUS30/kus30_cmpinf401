@@ -10,13 +10,10 @@ public class LogarithmCalculator {
 		}
 		return counter;
 	}
-	private static boolean checkInput(int base, int input) {
-		return base > 1 && input > 0; 
-	}
 	public static void main(String[] args) {
 		int input = Integer.parseInt(JOptionPane.showInputDialog("Enter your initial value: "));
 		int base = Integer.parseInt(JOptionPane.showInputDialog("Enter your base: "));
-		while(!checkInput(base, input)) {
+		while(!(base > 1 && input > 0)) {
 			input = Integer.parseInt(JOptionPane.showInputDialog("Enter your initial value: "));
 			base = Integer.parseInt(JOptionPane.showInputDialog("Enter your base: "));
 		}
