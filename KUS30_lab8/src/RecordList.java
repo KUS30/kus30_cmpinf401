@@ -1,3 +1,7 @@
+import java.io.FileWriter;
+import java.io.BufferedWriter;
+import java.io.IOException;
+
 public class RecordList {
 	
 	/**
@@ -59,8 +63,8 @@ public class RecordList {
 	 */
 	public int add(Record data) {
 		int indx = 0;
-		if(head == null) {
-			head = new Node(data);
+		if(head.next == null) {
+			head.next = new Node(data);
 			return indx;
 		}
 		Node pointer = head;
@@ -93,8 +97,27 @@ public class RecordList {
 	 * @param filename name of the file to write the list to
 	 */
 	public void writeToFile(String filename) {
-		// Add your own code here to write out the list contents to a file. You can use
-		// our file writing examples and the print() method above as a guide.
+		try {
+			FileWriter fw = new FileWriter(filename);
+			BufferedWriter bw = new BufferedWriter(fw);
+			Node currentNode = head.next;
+			if(currentNode == null) {
+				bw.close();
+				fw.close();
+				return;
+			}
+			while(currentNode.next != null) {
+				bw.write(currentNode.data.getName() + ", " + currentNode.data.getTime());
+				bw.newLine();
+				currentNode = currentNode.next;
+			}
+			bw.write(currentNode.data.getName() + ", " + currentNode.data.getTime());
+			bw.close();
+			fw.close();
+		}
+		catch (IOException e) {
+			System.out.println(e.getMessage());
+		}
 	}
 
 }

@@ -37,14 +37,14 @@ public class Lab8 {
 		
 		list.writeToFile("data/recordList.txt");
 		
-		/* input = javax.swing.JOptionPane.showInputDialog("Enter the name of a participant to look up");
+		input = javax.swing.JOptionPane.showInputDialog("Enter the name of a participant to look up");
 		String name = input.trim();
 		int result = list.indexOf(name);
 		if (result == -1) {
 			javax.swing.JOptionPane.showMessageDialog(null, "The participant was not found");
 		} else {
 			javax.swing.JOptionPane.showMessageDialog(null, name + "'s time was #" + (result+1) + " overall");
-		} */
+		} 
 
 	}
 
