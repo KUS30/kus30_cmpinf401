@@ -1,0 +1,50 @@
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven
+Salad: Soy bean sprout with corn. Soy bean sprout with corn and olives
+Side: Rice. Plain rice
+Dessert: Chocolate Cake. Low calorie chocolate cake
+
+Entree: Griller Steak. Carefully selected prime quality steak griller to the point of your preference
+Salad: Potato Salad. Potato Salad
+Side: Quinoa. Quinoa
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream
+
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven
+Salad: Potato Salad. Potato Salad
+Side: Quinoa. Quinoa
+Dessert: Fruit Salad. Oranges, bananas, apples, grapes, strawberries
+
+Entree: Griller Steak. Carefully selected prime quality steak griller to the point of your preference
+Salad: Potato Salad. Potato Salad
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter
+Dessert: Fruit Salad. Oranges, bananas, apples, grapes, strawberries
+
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven
+Salad: Soy bean sprout with corn. Soy bean sprout with corn and olives
+Side: Quinoa. Quinoa
+Dessert: Chocolate Cake. Low calorie chocolate cake
+
+Entree: Curry Chicken. Curry marinated chicken, cooked slowly in wood fire oven
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula
+Side: Quinoa. Quinoa
+Dessert: Chocolate Cake. Low calorie chocolate cake
+
+Entree: Sirloin Steak. A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked
+Salad: Mixed Vegetables. Includes small tomatoes, lettuce, cucumber, spinach and arugula
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter
+Dessert: Chocolate Cake. Low calorie chocolate cake
+
+Entree: Deep fried chicken breasts. Deep fried chicken breasts using our traditional powder receipt
+Salad: Potato Salad. Potato Salad
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter
+Dessert: Fruit Salad. Oranges, bananas, apples, grapes, strawberries
+
+Entree: Deep fried chicken breasts. Deep fried chicken breasts using our traditional powder receipt
+Salad: Potato Salad. Potato Salad
+Side: Grilled Potatoes. Boiled potatoes grilled in oven with a touch of butter
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream
+
+Entree: Griller Steak. Carefully selected prime quality steak griller to the point of your preference
+Salad: Potato Salad. Potato Salad
+Side: Quinoa. Quinoa
+Dessert: Ice Cream. Choose among vanilla, mango, pineapple, chocolate and orange ice cream
+
