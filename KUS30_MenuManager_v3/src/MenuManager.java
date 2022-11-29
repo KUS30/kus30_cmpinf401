@@ -89,7 +89,7 @@ public class MenuManager {
 		if(desserts.size() > 0) {
 			int highest = 0;
 			for(Dessert d : desserts) {
-				if(d.getCalories() < highest) {
+				if(d.getCalories() > highest) {
 					highestDessert = d;
 					highest = d.getCalories();
 				}
